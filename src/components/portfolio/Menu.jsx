@@ -1,5 +1,5 @@
 import work1 from '../../assets/ui-1.png'
-import work2 from '../../assets/dev-1.png'
+import work2 from '../../assets/asn.png'
 import work3 from '../../assets/dev-1.png'
 import work4 from '../../assets/ui-2.jpg'
 import work5 from '../../assets/dev-2.png'
@@ -16,8 +16,9 @@ const Menu = [
     {
         id:2,
         image: work2,
-        title:"Project Management",
-        category:"Model",
+        title:"ASN-japanese Agency",
+        category:"Development",
+        link:"https://github.com/pukarhirachan5/ASN-Japanese-Agency-"
     },
     {
         id:3,
